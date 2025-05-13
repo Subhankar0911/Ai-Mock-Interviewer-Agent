@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "drizzle-kit": "^0.18.1"
+  },
+  "dependencies": {
+    "@google/genai": "^0.13.0",
+    "@google/generative-ai": "^0.24.1",
+    "@shadcn/ui": "^0.0.4",
+    "dotenv": "^16.5.0",
+    "mime": "^4.0.7"
+  }
+}
